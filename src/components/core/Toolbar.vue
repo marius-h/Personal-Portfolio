@@ -9,7 +9,7 @@
       <img
         src="@/assets/logo.svg"
         alt=""
-        height="30"
+        height="40"
       >
     </v-toolbar-title>
     <v-spacer />

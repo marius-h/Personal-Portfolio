@@ -3,7 +3,7 @@
     id="services"
     class="hide-overflow"
   >
-    <v-layout accent>
+    <v-layout>
       <v-flex
         hidden-sm-and-down
         md6
